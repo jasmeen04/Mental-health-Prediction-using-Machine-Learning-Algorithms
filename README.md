@@ -7,15 +7,21 @@ This project aims to provide an initial assessment of depression risk through an
 # Technologies Used
 
 **Backend**: Python (Machine Learning Algorithms)
+
 **Web Framework**: Flask (Deployment)
+
 **Frontend**: HTML, CSS, JavaScript (User Interface)
+
 **Machine Learning**: Decision Trees, Random Forests
 
 # Features
 
 **User-Friendly Interface**: Accessible via any internet-connected device.
+
 **Comprehensive Questionnaire**: Covers physical and mental health aspects relevant to depression.
+
 **Depression Classification**: Utilizes Random Forest Algorithm to classify users into five categories: Not Depressed, Mildly Depressed, Moderately Depressed, Severely Depressed, and Critically Depressed.
+
 **Recommendations**: Encourages seeking professional help for diagnosed cases of depression.
 
 # Deployment
@@ -25,7 +31,9 @@ The application is deployed using Flask, allowing seamless interaction between t
 # Usage
 
 **User Input**: Users complete the questionnaire detailing their current mental and physical state.
+
 **Prediction**: Based on the input, the system predicts the severity of depression.
+
 **Outcome**: Users receive their classification and are encouraged to seek professional help if necessary.
 
 # Disclaimer
